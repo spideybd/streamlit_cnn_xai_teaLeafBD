@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+numpy
+opencv-python-headless
+scikit-image
+lime
+grad-cam
